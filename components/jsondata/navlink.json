@@ -1,0 +1,48 @@
+{
+  "links": [
+    {
+      "heading": "API Reference",
+      "sub_links": [
+        {
+          "name": "Indian Astrology API",
+          "link": "/"
+        },
+        {
+          "name": "Western Astrology API",
+          "link": "/"
+        }, {
+          "name": "Horoscope  API",
+          "link": "/"
+        }, {
+          "name": "PDF API",
+          "link": "/"
+        }
+      ]
+    },
+    {
+      "heading": "API Integration",
+      "sub_links": [
+        {
+          "name": "PHP Integration",
+          "link": "/"
+        },
+        {
+          "name": "Ruby Integration",
+          "link": "/"
+
+        }, {
+          "name": "Android Integration",
+          "link": "/"
+        },
+        {
+          "name": "Nodejs Integration",
+          "link": "/"
+        },
+        {
+          "name": "Python Integration",
+          "link": "/"
+        }
+      ]
+    }
+  ]
+}

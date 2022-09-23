@@ -1,0 +1,36 @@
+.link{
+padding-bottom: 1px;
+  border:1px solid #0ea5e9;
+}
+.link:hover{
+  border-width: 2px;
+ }
+
+.prose{
+  margin-top: 1.25rem;
+  margin-bottom: 1.25rem;
+    color: #334155;
+}
+
+
+.tooltiptext {
+  visibility: hidden;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  position: absolute;
+  z-index: 1;
+color: #404353
+}
+
+ .tooltiptext::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #15803d transparent transparent transparent;
+}
